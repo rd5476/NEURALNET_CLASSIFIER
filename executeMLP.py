@@ -4,7 +4,7 @@ Takes input weight files
 -{weights_0,weights_1,weights_2,weights_3,weights_4}
 Take input data
 -{test_data.csv}
-Author : Ritvik Joshi, Rahul Dashora, Amruta Deshpande
+Author : Rahul Dashora
 """
 
 import numpy as np
